@@ -1,0 +1,54 @@
+{
+  "pages": [
+    {
+      "id": "Listener Home",
+      "isDefault": true
+    },
+    {
+      "id": "Listener Profile",
+      "isDefault": false
+    },
+    {
+      "id": "Listener Subscription Type",
+      "isDefault": false
+    },
+    {
+      "id": "Listener Playlist Songs",
+      "isDefault": false
+    },
+    {
+      "id": "Listener Song",
+      "isDefault": false
+    },
+    {
+      "id": "Artist Home",
+      "isDefault": false
+    },
+    {
+      "id": "Artist Manage Song",
+      "isDefault": false
+    },
+    {
+      "id": "Home Page",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#D9E7FF",
+  "icon": "hospital",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
